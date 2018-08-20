@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-17T13:03:18Z" name="Suite" finished-at="2018-07-17T13:04:34Z" duration-ms="75951">
+    <groups>
+    </groups>
+    <test started-at="2018-07-17T13:03:18Z" name="Test" finished-at="2018-07-17T13:04:34Z" duration-ms="75951">
+      <class name="VGmal.LoginLogOutOfGmail">
+        <test-method signature="GmailLoginLogOut()[pri:0, instance:VGmal.LoginLogOutOfGmail@dd05255]" started-at="2018-07-17T18:33:18Z" name="GmailLoginLogOut" finished-at="2018-07-17T18:33:56Z" duration-ms="38235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GmailLoginLogOut -->
+      </class> <!-- VGmal.LoginLogOutOfGmail -->
+      <class name="VGmal.SendEmail">
+        <test-method signature="SendAnEmail()[pri:0, instance:VGmal.SendEmail@229f66ed]" started-at="2018-07-17T18:33:56Z" name="SendAnEmail" finished-at="2018-07-17T18:34:34Z" duration-ms="37680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendAnEmail -->
+      </class> <!-- VGmal.SendEmail -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

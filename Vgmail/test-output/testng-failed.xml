@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="VGmal.SendEmail">
+        <methods>
+          <include name="SendAnEmail"/>
+        </methods>
+      </class> <!-- VGmal.SendEmail -->
+      <class name="VGmal.LoginLogOutOfGmail">
+        <methods>
+          <include name="GmailLoginLogOut"/>
+        </methods>
+      </class> <!-- VGmal.LoginLogOutOfGmail -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
